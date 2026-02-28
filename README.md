@@ -211,8 +211,8 @@ Each student receives an individual score, and the classroom average is displaye
 ### 🖥️ Teacher Dashboard
 
 <p align="center">
-  <img src="images/dashboard-1.jpeg" width="48%" />
-  <img src="images/dashboard-2.jpeg" width="48%" />
+  <img width="1919" height="1174" alt="Screenshot 2026-02-24 225816" src="https://github.com/user-attachments/assets/46c08853-355f-443f-adff-063f35a6e78a" />
+
 </p>
 
 ---
@@ -220,8 +220,10 @@ Each student receives an individual score, and the classroom average is displaye
 ### 📊 Engagement Analytics
 
 <p align="center">
-  <img src="images/dashboard-3.jpeg" width="48%" />
-  <img src="images/dashboard-4.jpeg" width="48%" />
+  <img width="1919" height="1199" alt="Screenshot 2026-02-24 225603" src="https://github.com/user-attachments/assets/c4b6d8df-3001-4761-a67e-3b72106eda7d" />
+  <img width="1912" height="1183" alt="Screenshot 2026-02-24 225550" src="https://github.com/user-attachments/assets/31695f51-5de5-42a1-afb4-b4c72288bb4a" />
+  <img width="1919" height="1195" alt="Screenshot 2026-02-24 225807" src="https://github.com/user-attachments/assets/9972df89-4770-419a-bef0-0cf369c5a454" />
+
 </p>
 
 ---
@@ -229,9 +231,8 @@ Each student receives an individual score, and the classroom average is displaye
 ### 🎓 Student View
 
 <p align="center">
-  
-  <img src="images/dashboard-5.jpeg" width="48%" />
-  <img src="images/dashboard-6.jpeg" width="48%" />
+  <img width="1914" height="1175" alt="Screenshot 2026-02-24 225823" src="https://github.com/user-attachments/assets/eb7de5d1-4575-4753-8b92-ff986e16d470" />
+
 </p>
 
 ---
